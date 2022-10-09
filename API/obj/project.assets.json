@@ -282,11 +282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj",
+      "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj",
+      "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj",
       "packagesPath": "C:\\Users\\vvard\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\obj\\",
+      "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vvard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -303,8 +303,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj": {
-              "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj"
+            "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj": {
+              "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj"
             }
           }
         }

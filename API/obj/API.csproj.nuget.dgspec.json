@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj": {}
+    "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj": {}
   },
   "projects": {
-    "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj": {
+    "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj",
+        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\API.csproj",
+        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\API.csproj",
         "packagesPath": "C:\\Users\\vvard\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\API\\obj\\",
+        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj": {
-                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj"
+              "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj": {
+                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj": {
+    "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj",
+        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\Application.csproj",
+        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vvard\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Application\\obj\\",
+        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj"
+              "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj"
               },
               "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj": {
                 "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj": {
+    "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj",
+        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vvard\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\obj\\",
+        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,8 +213,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Domain\\Domain.csproj"
+              "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj"
               }
             }
           }
