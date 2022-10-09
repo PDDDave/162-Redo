@@ -13,3 +13,5 @@ F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.d
 F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.pdb
 F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
