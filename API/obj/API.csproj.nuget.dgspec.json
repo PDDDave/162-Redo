@@ -99,8 +99,8 @@
               "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj": {
                 "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Domain\\Domain.csproj"
               },
-              "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj": {
-                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj"
+              "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\Persistence.csproj": {
+                "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -189,14 +189,14 @@
         }
       }
     },
-    "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj": {
+    "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\Persistence.csproj",
+        "projectPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\vvard\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-Redo\\Persistence\\obj\\",
+        "outputPath": "F:\\Code\\School\\MATC\\162-redo\\162-redo\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvard\\AppData\\Roaming\\NuGet\\NuGet.Config",
