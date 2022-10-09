@@ -1,0 +1,15 @@
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Persistence.deps.json
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Persistence.dll
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Persistence.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Domain.dll
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\bin\Debug\net6.0\Domain.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.dll
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\Persistence.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Persistence\obj\Debug\net6.0\ref\Persistence.dll

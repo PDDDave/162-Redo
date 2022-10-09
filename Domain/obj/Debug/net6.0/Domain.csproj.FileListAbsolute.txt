@@ -1,0 +1,12 @@
+F:\Code\School\MATC\162-redo\162-Redo\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\Code\School\MATC\162-redo\162-Redo\Domain\bin\Debug\net6.0\Domain.dll
+F:\Code\School\MATC\162-redo\162-Redo\Domain\bin\Debug\net6.0\Domain.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.dll
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\refint\Domain.dll
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\Domain.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Domain\obj\Debug\net6.0\ref\Domain.dll

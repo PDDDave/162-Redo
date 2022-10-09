@@ -1,0 +1,17 @@
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Application.deps.json
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Application.dll
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Application.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Domain.dll
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Persistence.dll
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Domain.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Application\bin\Debug\net6.0\Persistence.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.dll
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\refint\Application.dll
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\Application.pdb
+F:\Code\School\MATC\162-redo\162-Redo\Application\obj\Debug\net6.0\ref\Application.dll
